@@ -38,3 +38,18 @@ Use a small result limit first. In a production agent, validate arguments, prese
 ## License
 
 MIT License.
+
+<!-- CROSS_LINKS_START -->
+
+## Related projects
+
+Explore these closely related implementation paths:
+
+- [amazon-mcp-server](https://github.com/data-scrape/amazon-mcp-server) — Amazon MCP Server - AI agent access to product data, prices, and reviews via MCP
+- [best-google-maps-scraper](https://github.com/data-scrape/best-google-maps-scraper) — Best Google Maps Scraper - Extract business data, reviews, ratings & contact info via API
+- [google-maps-data-api](https://github.com/data-scrape/google-maps-data-api) — Google Maps Data API - Structured local business data for AI agents and automation
+- [google-maps-scraper-api](https://github.com/data-scrape/google-maps-scraper-api) — Google Maps Scraper API - Production-ready REST API for local business data extraction
+- [linkedin-mcp-server](https://github.com/data-scrape/linkedin-mcp-server) — LinkedIn MCP Server - Give AI agents access to profiles, companies, and jobs via Model Context Protocol
+- [awesome-google-maps](https://github.com/data-scrape/awesome-google-maps) — Awesome Google Maps - Curated tools for Google Maps data extraction and local SEO
+
+<!-- CROSS_LINKS_END -->
