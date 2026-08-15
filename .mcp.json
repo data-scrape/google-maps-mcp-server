@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "google-maps": {
+      "command": "uvx",
+      "args": [
+        "google-maps-mcp-server"
+      ]
+    }
+  }
+}
